@@ -7,9 +7,11 @@
 
 int main(int argc, char **argv)
 {
+	int a=0;
+
 	printf("main\r\n");
 	printf("gitttttt\r\n");
-
+	
 
 	return 0;
 }
