@@ -8,6 +8,8 @@
 int main(int argc, char **argv)
 {
 	printf("main\r\n");
+	printf("gitttttt\r\n");
+
 
 	return 0;
 }
